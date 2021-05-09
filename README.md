@@ -1,0 +1,5 @@
+- 👋 Oi sou @eilusquinha
+- 👀 Estou interessado em REACT.JS
+- 🌱 Atualmente estou aprendendo HTML, CSS e JS.
+- 💞️ Estou procurando colaborar na área do front-end
+- 📫 Como me alcançar? Me chame via discord ( ei_lucasyuri#4107 ), ou então, me envia uma mensagem via instagram ( @ei_lucasyuri ).
